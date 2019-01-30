@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: My Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        .mixing {
+            color:rgb(255, 0, 0);
+            
+        
+        }
+        .mix-little{
+            color:rgb(255, 255, 255);
+        }
+        
+        td{
+            text-align:center; 
+        }
+        td:first-child{
+            
+            text-align :left;
+        }
+        
+        body
+        {
+            background-color:rgb(207, 207, 207);
+        }
+        </style>
+    </head>
+    <body>
+       
+        <h1>Cedar's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#cheese-cake">Cheese Cake</a></li>
+            <li><a href= "#Brownie">Brownie</a></li>
+            <li><a href= "#Cookies">Cookies</a></li>
+        </ol>
+        
+        <h2 id="cheese-cake">Cheese Cake</h2>
+        
+        <ul>
+            <li>Time: 7 hours</li>
+            <li>Serves: 1-8</li>
+        </ul>
+        
+        <table border = "1">
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Vanilla extract </td>
+                    <td> 1 tsp</td>
+                </tr>
+                <tr>
+                    <td>Oreos </td>
+                    <td>Entire Pack  </td>
+                </tr>
+                <tr>
+                    <td>9X10 stringform pan </td>
+                    <td>  Only 1 </td>
+                </tr>
+                <tr>
+                    <td>unsalted butter </td>
+                    <td>5 tbsp  </td>
+                </tr>
+                <tr>
+                    <td>Full Fat Cream Cheese </td>
+                    <td> 16 Oz</td>
+                </tr>
+                <tr>
+                    <td>Granulated sugar </td>
+                    <td> 1 cup </td>
+                    <tr>
+                    <td>cornstarch </td>
+                    <td> 1 tbsp</td>
+                </tr>
+                <tr>
+                    <td>salt </td>
+                    <td>1/8 tbsp </td>
+                    <tr>
+                    <td>sour cream </td>
+                    <td>1/2 cup </td>
+                </tr>
+                <tr>
+                    <td>lemon juice </td>
+                    <td>2 tsp </td>
+                </tr>
+                <tr>
+                    <td>Large Eggs </td>
+                    <td>3 </td>
+                    
+                </tr>
+                </tr>
+                </tr>
+                <tr>
+                    <td>Egg yolk </td>
+                    <td> 1</td>
+                </tr>
+                <tr>
+                    <td>cherries </td>
+                    <td>all you can buy </td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Coat pan with butter.
+</p>
+         <p><strong>Step 2:</strong>Take foil lay in cross and wrap around pan.  </p> 
+         <p><strong>Step 3:</strong>Take blender and blend oreos into fine crumbs. </p> 
+         <p><strong>Step 4:</strong> Insert unsalted butter. Mixture should hold together. </p> 
+         <p><strong>Step 5:</strong>Put in the pan and pressure down with a glass cup. </p> 
+         <p><strong>Step 6:</strong>Bake in oven at 350* for 8-10 minutes </p> 
+         <p><strong>Step 7:</strong>Cool crust on cooling rack </p> 
+         <p><strong>Step 8:</strong> put cream cheese in a mixing bowl  </p> 
+         <p><strong>Step 9:</strong>add sugar, cornstarch, and salt before mixing </p> 
+         <p><strong>Step 10:</strong>Beat on a medium speed </p> 
+         <p><strong>Step 11:</strong>add sour cream, lemon juice, and vanilla extract</p>
+         <p><strong>Step 12:</strong>Beat on a medium-low speed</p>
+         <p><strong>Step 13:</strong><strong class = "mixing">While mixing</strong> add eggs 1 at a time</p>
+         <p><strong>Step 14:</strong><strong class = "mixing">While mixing</strong> add egg yolk</p>
+         <p><strong>Step 15:</strong> Stir by hand to make sure everything it incorperated</p>
+         <p><strong>Step 16:</strong>Pour batter over cooled crust</p>
+         <p><strong>Step 17:</strong>Spread into even layers</p>
+         <p><strong>Step 18:</strong>Transfer into roasting pan</p>
+         <p><strong>Step 19:</strong>Add boiling water to roasting pan</p>
+         <p><strong>Step 20:</strong>Bake at 350* farenhight for 60-70 minutes.</p>
+         <p><strong>Step 21:</strong>After baked crack open oven door and let oven cool with cake inside 1 hour</p>
+         <p><strong>Step 22:</strong>Unwrap foil and transfer to cooling rack</p>
+         <p><strong>Step 23:</strong>Run thin bladed knife through edge of cake</p>
+         <p><strong>Step 24:</strong>Cool completly of rack</p>
+         <p><strong>Step 25:</strong>put in refriderator uncovered for 4 hours - 3days</p>
+         <p><strong>Step 26:</strong>Unmold cake</p>
+         <p><strong>Step 27:</strong> Add sour cherries in syrp</p>
+         <p><strong>Step 28:</strong>Enjoy</p>
+         
+         
+         
+    <p><em>Source: <a href="https://www.thekitchn.com/how-to-make-perfect-cheesecake-recipe-cooking-lessons-from-the-kitchen-110760">Kitchn</a></em></p> <br>
+    
+    <h2 id = "Brownie">Brownies </h2>
+    
+     <ul>
+            <li>Time: 2 hours</li>
+            <li>Serves: 1-10</li>
+        </ul>
+        
+        
+        <table border = "1">
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td> <em> <a href = "https://www.duncanhines.com/products/chewy-fudge-premium-brownie-mix/"> Brownie mix box </a> </em> </td>
+                    <td> 2</td>
+                </tr>
+                <tr>
+                    <td>vegtable oil </td>
+                    <td>1 cup</td>
+                </tr>
+                 <tr>
+                    <td>Eggs</td>
+                    <td>4 </td>
+                </tr>
+                 <tr>
+                    <td>milk/water</td>
+                    <td>1/2 cup </td>
+                </tr>
+                 <tr>
+                    <td> Large bowl</td>
+                    <td>1 </td>
+                </tr>
+          
+            
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1 </strong> Open boxes and pour mix into bowl</p>
+        <p><strong>Step 2 </strong>Insert vegtable oil, eggs, and milk into bowl</p>
+        <p><strong>Step 3</strong> Mix until all powder is combined with liquids</p>
+        <p><strong>Step 4</strong>Spray 9x13 pan with pam, grease, ect.</p>
+        <p><strong>Step 5</strong> Pour into 9x13 pan</p>
+        <p><strong>Step 6</strong> Put in oven at 325*f for 40-50 minutes</p>
+        <p><strong>Step 7</strong> Turn off oven and let cool for 1 hour</p>
+        <p><strong>Step 8</strong> Enjoy</p>
+        
+        <h3 id= "Cookies">Chocolate chip cookies</h3>
+        
+         <ul>
+            <li>Time: 1 hour</li>
+            <li>Serves:Depends on amount made</li>
+        </ul>
+        
+        <table border = "1">
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+                <tbody>
+                    <tr>
+                        <td>Packced Brown Sugar</td>
+                        <td>3/4 cups</td>
+                    </tr>
+                           <tr>
+                        <td>Ganulated sugar</td>
+                        <td>3/4 cups</td>
+                    </tr>
+                
+                       <tr>
+                        <td>Salted butter</td>
+                        <td>1 stick</td>
+                    </tr>
+                
+                   <tr>
+                        <td>Large egg</td>
+                        <td>2</td>
+                    </tr>
+                    <tr>
+                        <td>Vanilla extract</td>
+                        <td>1 tsp</td>
+                    </tr>
+                     <tr>
+                        <td>Table salt</td>
+                        <td>1 tsp</td>
+                    </tr>
+                     <tr>
+                        <td>Baking soda</td>
+                        <td>1 tsp</td>
+                    </tr>
+                     <tr>
+                        <td>All purpose flower</td>
+                        <td>2 & 1/4 cups</td>
+                    </tr>
+                     <tr>
+                        <td>Semi-sweet chocolate chips</td>
+                        <td> As many as wanted</td>
+                    </tr>
+                    
+                
+                
+                
+                </tbody>
+            </table>
+            <p><strong>Step 1</strong> Pre-heat oven to 350*</p>
+            <p><strong>Step 2</strong> Spray pan with non-stick butter or pam</p>
+            <p><strong>Step 3</strong> Mix ganulated sugar with brown sugar and make sure there are no clumps</p>
+            <p><strong>Step 4</strong> Mix butter into globs</p>
+            <p><strong>Step 5</strong> Add eggs one at a time and mixx between adding </p>
+            <p><strong>Step 6</strong> Add vanilla, baking soda, and salt</p>
+            <p><strong>Step 7</strong> Add flour all at once and<strong class = "mix-little"> mix as little as possible</strong></p>
+            <p><strong>Step 8</strong> Add all chocolate chips</p>
+             <p><strong>Step 9</strong> Mix for 30 seconds</p>
+              <p><strong>Step 10</strong> Put on tray and bake in oven for 12-19 minutes(until golden on edges)</p>
+              <p><strong>Step 11</strong> Let cool on tray for one minute then transfer to cooling rack.  </p>
+              <p><strong>Step 12</strong> Enjoy </p>
+              
+    </body>
+</html>
